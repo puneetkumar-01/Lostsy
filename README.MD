@@ -64,5 +64,4 @@ Lost & Found is an android application that allows CUNY students to post what th
 - PostAdapter - Extends ArrayAdapter to populates a list of posts into a Lost or Found fragment view.  
 - ViewPagerAdapter - Extends FragmentPagerAdapter to add fragments,lost & found, to switch between lost & found tab.
 
-## Contributor  
-Ho Ming Poon
+
